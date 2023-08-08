@@ -1,5 +1,10 @@
 {
-	"name": "Luis Angel Baez",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Luis Angel Baez",
+	"description": "This is a description of the project",
+	"keywords": ["freecodecamp", "node"],
+	"license": "ISC",
+	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
